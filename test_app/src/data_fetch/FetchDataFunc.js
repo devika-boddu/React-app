@@ -28,7 +28,7 @@ function FetchDataFunc() {
                         <p>Link : <a href={item.link} />{item.link}</p>
                         <p>Title : {item.title.rendered}</p>
                         <p>Excerpt : {item.excerpt.rendered}</p>
-                        <img src={item.jetpack_featured_media_url} width="600" height="400"/>
+                        <img src={item.jetpack_featured_media_url} width="500" height="400"/>
                         <p>Creator : {item.author}</p>
                     </div>
                 </div>
