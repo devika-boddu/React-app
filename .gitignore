@@ -1,0 +1,4 @@
+NU-Events/server/node_modules
+NU-Events/client/node_modules
+.DS_Store
+.vscode
